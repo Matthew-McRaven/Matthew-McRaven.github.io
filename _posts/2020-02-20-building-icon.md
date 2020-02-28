@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog Post'
-date: 2020-01-01
-permalink: /posts/2012/08/blog-post-4/
+date: 2020-02-20
+permalink: /posts/2020/02/Blag/
 tags:
   - cool posts
   - category1
