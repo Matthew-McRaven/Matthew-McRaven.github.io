@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/pep9micro-SCCUR
 venue: "Southern California Conferences for Undergraduate Research"
-date: 2017-11-017
+date: 2017-11-17
 location: "Pasadena, CA"
 ---
 
