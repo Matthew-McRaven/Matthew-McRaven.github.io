@@ -1,7 +1,7 @@
 ---
 title: "Pep9Milli: Verification of CISC Processors using Software Verification Tools"
-collection: publications
-permalink: /publication/pep9milli
+collection: papers
+permalink: /papers/pep9milli
 excerpt: 'This paper introduces a process for using open-source software verification tools to verify the correctness of CISC microprocessors.'
 date: 2020-02-28
 venue: 'N/A'
